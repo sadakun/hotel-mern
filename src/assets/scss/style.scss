@@ -42,3 +42,11 @@
 @import "spinners";
 @import "utilities";
 @import "print";
+
+.brand-text-icon {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 54px;
+  font-family: "Poppins", sans-serif;
+  color: $primary;
+}
